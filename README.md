@@ -3,6 +3,8 @@ Code for the project of the Seminar in Differential Equations and Modeling. Mast
 In this project, I studied the work from the paper: 
 Frank C. Hoppensteadt and Eugene M. Izhikevich. Oscillatory neurocomputers with dynamic connectivity. Physical Review Letters, 82(14):2983–2986, apr 1999.
 
+![initialization](https://github.com/alexgarciaduran/oscillatory_neurocomputers/blob/main/initialization.gif)
+
 ### Article
 ```
 @Article{PhysRevLett.82.2983,
